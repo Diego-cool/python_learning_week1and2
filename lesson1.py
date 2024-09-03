@@ -22,3 +22,4 @@ food=input("what is your favorite food")
 print( food, "sounds yummy to bad im a robot and cant eat")
 favorite_animal=input("what is your favorite animal?")
 print("your favorite animal is a"+favorite_animal)
+#gona try to make a comment
